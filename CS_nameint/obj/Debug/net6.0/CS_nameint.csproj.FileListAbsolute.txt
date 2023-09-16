@@ -1,0 +1,15 @@
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.csproj.AssemblyReference.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.AssemblyInfoInputs.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.AssemblyInfo.cs
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.csproj.CoreCompileInputs.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\bin\Debug\net6.0\CS_nameint.exe
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\bin\Debug\net6.0\CS_nameint.deps.json
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\bin\Debug\net6.0\CS_nameint.runtimeconfig.json
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\bin\Debug\net6.0\CS_nameint.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\bin\Debug\net6.0\CS_nameint.pdb
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\refint\CS_nameint.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.pdb
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\CS_nameint.genruntimeconfig.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_nameint\obj\Debug\net6.0\ref\CS_nameint.dll
