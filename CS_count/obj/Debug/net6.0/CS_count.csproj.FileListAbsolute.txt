@@ -1,0 +1,15 @@
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\bin\Debug\net6.0\CS_count.exe
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\bin\Debug\net6.0\CS_count.deps.json
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\bin\Debug\net6.0\CS_count.runtimeconfig.json
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\bin\Debug\net6.0\CS_count.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\bin\Debug\net6.0\CS_count.pdb
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.csproj.AssemblyReference.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.AssemblyInfoInputs.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.AssemblyInfo.cs
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.csproj.CoreCompileInputs.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\refint\CS_count.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.pdb
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\CS_count.genruntimeconfig.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_count\obj\Debug\net6.0\ref\CS_count.dll
