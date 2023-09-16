@@ -1,0 +1,15 @@
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\bin\Debug\net6.0\CS_helloworld.exe
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\bin\Debug\net6.0\CS_helloworld.deps.json
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\bin\Debug\net6.0\CS_helloworld.runtimeconfig.json
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\bin\Debug\net6.0\CS_helloworld.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\bin\Debug\net6.0\CS_helloworld.pdb
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.csproj.AssemblyReference.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.AssemblyInfoInputs.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.AssemblyInfo.cs
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\refint\CS_helloworld.dll
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.pdb
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\CS_helloworld.genruntimeconfig.cache
+C:\Users\kagep\OneDrive\Рабочий стол\CS\CS_helloworld\obj\Debug\net6.0\ref\CS_helloworld.dll
